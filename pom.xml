@@ -29,7 +29,7 @@
 
     </properties>
     <modules>
-
+        <module>sharding-jdbc</module>
     </modules>
 
 
